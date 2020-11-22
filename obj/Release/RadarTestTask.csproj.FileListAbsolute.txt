@@ -1,0 +1,10 @@
+C:\Games\WebDev\sites\RadarTestTask\bin\Release\RadarTestTask.exe.config
+C:\Games\WebDev\sites\RadarTestTask\bin\Release\RadarTestTask.exe
+C:\Games\WebDev\sites\RadarTestTask\bin\Release\RadarTestTask.pdb
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.csprojAssemblyReference.cache
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.Form.resources
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.Properties.Resources.resources
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.csproj.GenerateResource.cache
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.csproj.CoreCompileInputs.cache
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.exe
+C:\Games\WebDev\sites\RadarTestTask\obj\Release\RadarTestTask.pdb
